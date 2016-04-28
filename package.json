@@ -1,0 +1,27 @@
+{
+  "name": "Administrator's Friend",
+  "version": "0.1.0",
+  "description": "Desktop app for retrieving computer information for IT departments",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kek91/administratorsfriend"
+  },
+  "keywords": [
+    "Electron",
+    "Computer",
+    "Dell"
+  ],
+  "author": "Kim Eirik Kvassheim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kek91/administratorsfriend/issues"
+  },
+  "homepage": "https://github.com/kek91/administratorsfriend",
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.6"
+  }
+}
