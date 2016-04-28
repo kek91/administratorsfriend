@@ -5,9 +5,11 @@ Small desktop utility for Windows to quickly retrieve computer information from 
 
 # pre-requisites
 
-- npm / node.js
+- `npm` / `node.js`
 
-- electron-packager
+- `electron-packager`
+
+- `python 2.7` or newer with `pywin32` lib
 
 
 # instructions
@@ -27,5 +29,7 @@ Small desktop utility for Windows to quickly retrieve computer information from 
 ## credits
 
 http://www.robvanderwoude.com/wmigen.php
+
+http://sourceforge.net/projects/pywin32/files/pywin32/
 
 http://electron.atom.io
